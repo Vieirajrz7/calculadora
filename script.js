@@ -1,3 +1,4 @@
+// second commit
 var total = 0;
 
 function Sum(value) {
